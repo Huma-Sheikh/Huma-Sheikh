@@ -60,8 +60,9 @@
 💬 **RAGBoard — Embeddable Website Chatbot** — Plug-and-play RAG chatbot widget you drop into any site with one script tag; answers only from client data. *(Python · LangChain · Pinecone · OpenAI)*
 https://rag-bot-two.vercel.app/
 
-🌐 **Conversational AI Portfolio** — Interactive portfolio powered by a custom RAG agent trained on my projects and experience. *(Next.js · OpenAI · Pinecone)*
+🌐 **Conversational AI Portfolio** — Interactive portfolio powered by a custom RAG agent trained on my projects and experience. *(Next.js · OpenAI · Pinecone)* 
 https://portfolio-3tn9.vercel.app/
+
 ---
 
 ### 📚 Currently Learning
